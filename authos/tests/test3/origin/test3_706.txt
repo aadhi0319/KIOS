@@ -1,0 +1,1 @@
+origin/test3_706.txt: this is sample test data

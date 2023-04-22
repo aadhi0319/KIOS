@@ -1,0 +1,1 @@
+test2 content: this test is intended to measure the performance of many opens, reads, and then closes to a file.

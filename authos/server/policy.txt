@@ -1,0 +1,2 @@
+/home/aadhi/Desktop/authos/driver/bill.txt [gardener] wx
+/home/aadhi/Desktop/authos/driver/bob.txt [all] wx

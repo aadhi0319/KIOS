@@ -1,0 +1,1 @@
+cmd_/home/aadhi/Desktop/authos/driver/lkm_authos.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/aadhi/Desktop/authos/driver/lkm_authos.ko /home/aadhi/Desktop/authos/driver/lkm_authos.o /home/aadhi/Desktop/authos/driver/lkm_authos.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/aadhi/Desktop/authos/driver/lkm_authos.mod := printf '%s\n'   lkm_authos.o | awk '!x[$$0]++ { print("/home/aadhi/Desktop/authos/driver/"$$0) }' > /home/aadhi/Desktop/authos/driver/lkm_authos.mod
